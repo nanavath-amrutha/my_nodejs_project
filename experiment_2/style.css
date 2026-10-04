@@ -1,0 +1,6 @@
+.book-container {
+display: flex;
+}
+.book {
+width: 100px;
+}
